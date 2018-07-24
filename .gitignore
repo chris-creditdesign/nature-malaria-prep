@@ -3,3 +3,4 @@ map/
 *.xls
 .DS_Store
 .ipynb_checkpoints/
+natural-earth-data/
